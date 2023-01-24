@@ -633,6 +633,7 @@ img {
   right: 20px;
   background: var(--main-color);
   display: flex;
+  display: none;
   font-size: 20px;
   width: 45px;
   cursor: pointer;
